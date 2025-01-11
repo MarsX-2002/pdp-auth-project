@@ -2,6 +2,17 @@
 
 A secure authentication system built with Next.js and Express.js.
 
+## Screenshots
+
+### Dashboard View
+![Dashboard](dashboard.png)
+
+### Login Form
+![Login Form](login-form.png)
+
+### Login Page
+![Login Page](login.png)
+
 ## Project Structure
 ```
 pdp-auth/
